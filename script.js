@@ -172,6 +172,7 @@ if (formOrcamento) {
     const nome = document.getElementById('nome').value.trim();
     const telefone = document.getElementById('telefone').value.trim();
     const servico = document.getElementById('servico').value.trim();
+    const endereço = document. getElementById('endereço').value.trim ();
     const mensagem = document.getElementById('mensagem').value.trim();
     
     // Validacao basica
